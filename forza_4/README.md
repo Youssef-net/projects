@@ -11,7 +11,6 @@ L'obiettivo è allineare **4 pedine consecutive** dello stesso tipo (orizzontale
 ## 🚀 Funzionalità
 
 - 🎲 Modalità **giocatore vs giocatore** locale
-- 🧠 Intelligenza base (opzionale) per giocare contro il computer *(solo se implementata)*
 - ✅ Rilevamento automatico delle vittorie e dei pareggi
 - 🔄 Controlli semplici via tastiera
 - 📦 Codice organizzato in funzioni/moduli per una facile lettura e manutenzione
@@ -20,6 +19,6 @@ L'obiettivo è allineare **4 pedine consecutive** dello stesso tipo (orizzontale
 
 ## 🛠️ Tecnologie Utilizzate
 
-- Linguaggio: **Python 3.x**
+- Linguaggio: **Python 3**
 - Esecuzione da **terminal/console**
 - Nessuna libreria esterna necessaria
