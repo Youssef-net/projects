@@ -28,8 +28,8 @@ Rendere visibile il mio percorso di apprendimento e sviluppo, con codice chiaro,
 
 ## 📬 Contatti
 
-- **LinkedIn**: [linkedin.com/in/tuo-nome](https://linkedin.com/in/tuo-nome)
-- **Email**: tuo@email.com
+- **LinkedIn**: [linkedin.com/in/youssef-salama-48b055137](https://www.linkedin.com/in/youssef-salama-48b055137/)
+- **Email**: jere7777@hotmail.com
 
 ---
 
