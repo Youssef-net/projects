@@ -80,12 +80,6 @@ def winner_evaluation(board, row, column):
                     break
         else:
             counter_column = 0   
-        """ if i - board[i].index(board[row][column]) == row - column and board[i][board[i].index(board[row][column])] == board[row][column]:
-            counter_main_diag += 1
-            if counter_main_diag == 4:
-                break
-        else:
-            counter_main_diag = 0 """
         
         main_diag_column = (column - row) + i
         second_diag_column = (column + row) - i
@@ -115,36 +109,7 @@ def winner_evaluation(board, row, column):
             counter_row = 0    
 
         if counter_column == 4:
-            break   
-
-            """ if (i-j) == (row - column) and board[i][j] == board[row][column]:
-                counter_main_diag += 1
-                print(f"main : {counter_main_diag}")
-                if counter_main_diag == 4:
-                    break
-            elif (i-j) == (row - column) and board[i][j] != board[row][column]:
-                counter_main_diag = 0
-                print(f"main : {counter_main_diag}")
-
-            if (i+j) == (row + column) and board[i][j] == board[row][column]:
-                counter_second_diag += 1
-                print(f"second : {counter_second_diag}")
-                if counter_second_diag == 4:
-                    break
-
-            elif (i+j) == (row + column) and board[i][j] != board[row][column]:
-                counter_second_diag = 0
-                print(f"second : {counter_second_diag}")
-            
-            if j == len(board[i]) - 1:
-                counter_main_diag, counter_second_diag = 0, 0   
-                print(f"main : {counter_main_diag} second : {counter_second_diag}") """
-
-        """ if (column + row) == (len(board) - 1)  and board[i][(len(board)-1) - i] == board[row][column]:
-                counter_second_diag += 1 """
-                
-        
-                   
+            break                           
          
     if counter_row == 4 or counter_column == 4 or counter_main_diag == 4 or counter_second_diag == 4: 
         return board[row][column]
