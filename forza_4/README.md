@@ -31,5 +31,5 @@ L'obiettivo è allineare **4 pedine consecutive** dello stesso tipo (orizzontale
 
    ```bash
    git clone https://github.com/Youssef-net/projects
-   cd forza_4
+   cd projects/forza_4
    python forza_4.py
