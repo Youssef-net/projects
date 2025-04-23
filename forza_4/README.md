@@ -22,3 +22,14 @@ L'obiettivo è allineare **4 pedine consecutive** dello stesso tipo (orizzontale
 - Linguaggio: **Python 3**
 - Esecuzione da **terminal/console**
 - Nessuna libreria esterna necessaria
+
+---
+
+## 📦 Installazione e Avvio
+
+1. **Clona il repository**:
+
+   ```bash
+   git clone [https://github.com/Youssef-net/projects](https://github.com/Youssef-net/projects)
+   cd forza_4
+   python forza_4.py
