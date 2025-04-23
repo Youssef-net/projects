@@ -1,1 +1,25 @@
+# 🎮 Forza 4 - Console Game in Python
 
+Benvenuto nel mio progetto **Forza 4**, una semplice ma avvincente versione del celebre gioco da tavolo, sviluppata in **Python** per giocare via **console**.
+
+## 🧠 Obiettivo del Gioco
+
+L'obiettivo è allineare **4 pedine consecutive** dello stesso tipo (orizzontale, verticale o diagonale) su una griglia 6x7 prima dell'avversario.
+
+---
+
+## 🚀 Funzionalità
+
+- 🎲 Modalità **giocatore vs giocatore** locale
+- 🧠 Intelligenza base (opzionale) per giocare contro il computer *(solo se implementata)*
+- ✅ Rilevamento automatico delle vittorie e dei pareggi
+- 🔄 Controlli semplici via tastiera
+- 📦 Codice organizzato in funzioni/moduli per una facile lettura e manutenzione
+
+---
+
+## 🛠️ Tecnologie Utilizzate
+
+- Linguaggio: **Python 3.x**
+- Esecuzione da **terminal/console**
+- Nessuna libreria esterna necessaria
